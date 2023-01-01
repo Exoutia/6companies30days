@@ -8,4 +8,4 @@ I am going to complete this challenge by solving all the sums and recording my w
 - link to my post in linkedin, [here](https://www.linkedin.com/posts/bibek-jha-aa288a202_github-exoutia6companies30days-this-is-activity-7015370669924184064-MM0e?utm_source=share&utm_medium=member_desktop)
 
 ## Microsoft
-1. [Evaluate Reverse Polish Notation](6companies30days/microsoft/evaluate-reverse-polish-notation.md)
+1. [Evaluate Reverse Polish Notation](microsoft/evaluate-reverse-polish-notation.md)
