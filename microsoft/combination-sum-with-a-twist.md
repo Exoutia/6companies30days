@@ -24,3 +24,6 @@ class Solution:
             self.helper(path+[i], i+1, k-1, target - i)
 
 ```
+
+time complexity: O(9!)
+space complexity: O(N)
