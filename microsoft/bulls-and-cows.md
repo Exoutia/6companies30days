@@ -1,4 +1,4 @@
-[299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+# [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 
 
 This is pretty easy sums as we just need to consider the hashmap for storing the count of the secret msg to look up in the table.
