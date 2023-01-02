@@ -22,4 +22,4 @@ I am going to complete this challenge by solving all the sums and recording my w
 - [ ] [Longest happy prefix](microsoft/longest-happy-prefix.md)
 - [ ] [Seat arrangment in a jet](microsoft/sear-arrangement-in-spice-jet.md)
 - [ ] [Deletions to make an array divisible](microsoft/deletions-to-make-arr-div.md)
-- [ ] [Soultions containing all three characters](microsoft/sol)
+- [ ] [Soultions containing all three characters](microsoft/solution-containing-all-three-char.md)
