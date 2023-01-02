@@ -9,4 +9,6 @@ I am going to complete this challenge by solving all the sums and recording my w
 
 ## Microsoft
 1. [Evaluate Reverse Polish Notation](microsoft/evaluate-reverse-polish-notation.md)
-2. [Combination sum with a twist](micrsoft/combination-sum-with-a-twist.md)
+2. [Combination sum with a twist](microsoft/combination-sum-with-a-twist.md)
+3. [Bulls and Cows](microsoft/bulls-and-cows.md)
+
